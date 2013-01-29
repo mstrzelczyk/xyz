@@ -1,0 +1,196 @@
+{
+	"theGoodBadGirls": [
+		{ 
+			"originalSize":"/media/1.png" , 
+			"width": 218,
+			"height": 337,
+			"thumb":"/img/thumb/sadhagskd.jpg",
+			"name": "Koszulka Shd",
+			"price": "123,4 zł"
+		}, 
+		{ 
+			"originalSize":"/media/2.png" , 
+			"width": 320,
+			"height": 169,
+			"thumb":"/img/thumb/sadhagskd.jpg",
+			"name": "Koszulka Shd",
+			"price": "123,4 zł"
+		}, 
+		{ 
+			"originalSize":"/media/3.png" , 
+			"width": 422,
+			"height": 169,
+			"thumb":"/img/thumb/sadhagskd.jpg",
+			"name": "Koszulka Shd",
+			"price": "123,4 zł"
+		}, 
+		{ 
+			"originalSize":"/media/4.png" ,
+			"width": 320,
+			"height": 169,
+			"thumb":"/img/thumb/sadhagskd.jpg",
+			"name": "Koszulka Shd",
+			"price": "123,4 zł"
+		}, 
+		{ 
+			"originalSize":"/media/5.png" , 
+			"width": 320,
+			"height": 169,
+			"thumb":"/img/thumb/sadhagskd.jpg",
+			"name": "Koszulka Shd",
+			"price": "123,4 zł"
+		},
+		{ 
+			"originalSize":"/media/6.png" , 
+			"width": 600,
+			"height": 337,
+			"thumb":"/img/thumb/sadhagskd.jpg",
+			"name": "Koszulka Shd",
+			"price": "123,4 zł"
+		},
+		{ 
+			"originalSize":"/media/7.png" , 
+			"width": 143,
+			"height": 337,
+			"thumb":"/img/thumb/sadhagskd.jpg",
+			"name": "Koszulka Shd",
+			"price": "123,4 zł"
+		},
+		{ 
+			"originalSize":"/media/8.png" , 
+			"width": 269,
+			"height": 168,
+			"thumb":"/img/thumb/sadhagskd.jpg",
+			"name": "Koszulka Shd",
+			"price": "123,4 zł"
+		},
+		{ 
+			"originalSize":"/media/9.png" , 
+			"width": 269,
+			"height": 337,
+			"thumb":"/img/thumb/sadhagskd.jpg",
+			"name": "Koszulka Shd",
+			"price": "123,4 zł"
+		},
+		{ 
+			"originalSize":"/media/10.png" , 
+			"width": 269,
+			"height": 169,
+			"thumb":"/img/thumb/sadhagskd.jpg",
+			"name": "Koszulka Shd",
+			"price": "123,4 zł"
+		},
+		{ 
+			"originalSize":"/media/11.png" , 
+			"width": 422,
+			"height": 169,
+			"thumb":"/img/thumb/sadhagskd.jpg",
+			"name": "Koszulka Shd",
+			"price": "123,4 zł"
+		},
+		{ 
+			"originalSize":"/media/12.png" , 
+			"width": 320,
+			"height": 169,
+			"thumb":"/img/thumb/sadhagskd.jpg",
+			"name": "Koszulka Shd",
+			"price": "123,4 zł"
+		},
+		{ 
+			"originalSize":"/media/1.png" , 
+			"width": 218,
+			"height": 337,
+			"thumb":"/img/thumb/sadhagskd.jpg",
+			"name": "Koszulka Shd",
+			"price": "123,4 zł"
+		}, 
+		{ 
+			"originalSize":"/media/2.png" , 
+			"width": 320,
+			"height": 169,
+			"thumb":"/img/thumb/sadhagskd.jpg",
+			"name": "Koszulka Shd",
+			"price": "123,4 zł"
+		}, 
+		{ 
+			"originalSize":"/media/3.png" , 
+			"width": 422,
+			"height": 169,
+			"thumb":"/img/thumb/sadhagskd.jpg",
+			"name": "Koszulka Shd",
+			"price": "123,4 zł"
+		}, 
+		{ 
+			"originalSize":"/media/4.png" ,
+			"width": 320,
+			"height": 169,
+			"thumb":"/img/thumb/sadhagskd.jpg",
+			"name": "Koszulka Shd",
+			"price": "123,4 zł"
+		}, 
+		{ 
+			"originalSize":"/media/5.png" , 
+			"width": 320,
+			"height": 169,
+			"thumb":"/img/thumb/sadhagskd.jpg",
+			"name": "Koszulka Shd",
+			"price": "123,4 zł"
+		},
+		{ 
+			"originalSize":"/media/6.png" , 
+			"width": 600,
+			"height": 337,
+			"thumb":"/img/thumb/sadhagskd.jpg",
+			"name": "Koszulka Shd",
+			"price": "123,4 zł"
+		},
+		{ 
+			"originalSize":"/media/7.png" , 
+			"width": 143,
+			"height": 337,
+			"thumb":"/img/thumb/sadhagskd.jpg",
+			"name": "Koszulka Shd",
+			"price": "123,4 zł"
+		},
+		{ 
+			"originalSize":"/media/8.png" , 
+			"width": 269,
+			"height": 168,
+			"thumb":"/img/thumb/sadhagskd.jpg",
+			"name": "Koszulka Shd",
+			"price": "123,4 zł"
+		},
+		{ 
+			"originalSize":"/media/9.png" , 
+			"width": 269,
+			"height": 337,
+			"thumb":"/img/thumb/sadhagskd.jpg",
+			"name": "Koszulka Shd",
+			"price": "123,4 zł"
+		},
+		{ 
+			"originalSize":"/media/10.png" , 
+			"width": 269,
+			"height": 169,
+			"thumb":"/img/thumb/sadhagskd.jpg",
+			"name": "Koszulka Shd",
+			"price": "123,4 zł"
+		},
+		{ 
+			"originalSize":"/media/11.png" , 
+			"width": 422,
+			"height": 169,
+			"thumb":"/img/thumb/sadhagskd.jpg",
+			"name": "Koszulka Shd",
+			"price": "123,4 zł"
+		},
+		{ 
+			"originalSize":"/media/12.png" , 
+			"width": 320,
+			"height": 169,
+			"thumb":"/img/thumb/sadhagskd.jpg",
+			"name": "Koszulka Shd",
+			"price": "123,4 zł"
+		}
+	]
+}
